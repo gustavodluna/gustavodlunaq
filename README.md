@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hola 👋, soy Gustavo Luna de Salta,Argentina</h1>
+<h3 align="center">Un estudiante de Ciencia de Datos y aspirante a Data Analyst.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
